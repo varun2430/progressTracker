@@ -18,9 +18,9 @@ const NavBar = () => {
 
                 <Nav className="ml-auto">
 
-                    <Nav.Link href="#home">insta</Nav.Link>
-                    <Nav.Link href="#skills">linkedin</Nav.Link>
-                    <Nav.Link href="#projects">git</Nav.Link>
+                    <Nav.Link href="https://www.instagram.com/varunkadkade/" target="_blank"><i className="fa fa-instagram"></i></Nav.Link>
+                    <Nav.Link href="https://www.linkedin.com/in/varun-kadkade-7359aa214/" target="_blank"><i className="fa fa-linkedin"></i></Nav.Link>
+                    <Nav.Link href="https://github.com/varun2430" target="_blank"><i className="fa fa-github"></i></Nav.Link>
 
                 </Nav>
 
