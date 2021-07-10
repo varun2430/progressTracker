@@ -1,6 +1,7 @@
 import { Container , Card , Accordion, Row, Col, ProgressBar } from "react-bootstrap"
 
 const ProjectComponent = (props) => {
+
     return (
         <Container>
 
@@ -18,7 +19,7 @@ const ProjectComponent = (props) => {
 
                         <Col>
 
-                            <ProgressBar now={`${props.progress}`}></ProgressBar>
+                            <ProgressBar variant="success" now={`${props.progress}`} label={`${props.progress}%`} ></ProgressBar>
                     
                         </Col>
 
