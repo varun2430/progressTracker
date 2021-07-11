@@ -16,7 +16,7 @@ const Projects = () => {
                 Classic game of tetris in console using C++.
                 </ProjectComponent>
 
-                <ProjectComponent name="Progress Tracker" progress="50" githubLink="https://github.com/varun2430/progressTracker" eventKey="1" >
+                <ProjectComponent name="Progress Tracker" progress="65" githubLink="https://github.com/varun2430/progressTracker" eventKey="1" >
                 A website to track the stuff I learn and the projects I'm working on.
                 </ProjectComponent>
 

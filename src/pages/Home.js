@@ -6,7 +6,9 @@ const Home = () => {
             
             <Jumbotron>
 
-                <h2>Home</h2>
+                <h2>Varun Kadkade</h2>
+
+                <p>Student at Vellore Institute of Technology, Bhopal.</p>
                 
             </Jumbotron>
         </>
