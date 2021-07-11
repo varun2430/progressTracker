@@ -1,0 +1,15 @@
+{
+  "short_name": "Progress Tracker",
+  "name": "Progress Tracker",
+  "icons": [
+    {
+      "src": "dfi.png",
+      "type": "image/png",
+      "sizes": "869x869"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
