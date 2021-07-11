@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Switch, Route, HashRouter } from "react-router-dom";
 import NavBar from './components/NavBar';
 import Home from './pages/Home';
 import Skills from './pages/Skills';
@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
 
-    <Router>
+    <HashRouter>
 
       <div className="App">
 
@@ -24,7 +24,7 @@ function App() {
 
       </div>
 
-    </Router>
+    </HashRouter>
 
   );
 }
