@@ -18,7 +18,7 @@ const NavBar = () => {
 
                 <Nav className="ml-auto">
 
-                    <Nav.Link href="https://www.instagram.com/varunkadkade/" target="_blank"><i className="fa fa-instagram" aria-hidden="true"></i></Nav.Link>
+                    <Nav.Link href="https://www.instagram.com/varun_kadkade/" target="_blank"><i className="fa fa-instagram" aria-hidden="true"></i></Nav.Link>
                     <Nav.Link href="https://www.linkedin.com/in/varun-kadkade-7359aa214/" target="_blank"><i className="fa fa-linkedin" aria-hidden="true"></i></Nav.Link>
                     <Nav.Link href="https://github.com/varun2430" target="_blank"><i className="fa fa-github" aria-hidden="true"></i></Nav.Link>
 

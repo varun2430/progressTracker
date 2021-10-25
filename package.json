@@ -15,9 +15,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-
   "homepage": "https://varun2430.github.io/progressTracker",
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
